@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Bike sharing model
 
 
 ## Table of Contents
